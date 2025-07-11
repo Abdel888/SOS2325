@@ -1,0 +1,221 @@
+[30-Sep-2020 14:46:15 UTC] PHP Warning:  strip_tags() expects parameter 1 to be string, object given in /home2/abdel8/public_html/az/wp-content/themes/A8child/TemplateWorks.php on line 95
+[30-Sep-2020 14:46:23 UTC] PHP Warning:  strip_tags() expects parameter 1 to be string, object given in /home2/abdel8/public_html/az/wp-content/themes/A8child/TemplateWorks.php on line 95
+[30-Sep-2020 15:02:54 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home2/abdel8/public_html/az/wp-content/themes/A8child/TemplateWorks.php on line 102
+[30-Sep-2020 15:03:32 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/abdel8/public_html/az/wp-content/themes/A8child/TemplateWorks.php on line 102
+[30-Sep-2020 15:05:14 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/abdel8/public_html/az/wp-content/themes/A8child/TemplateWorks.php on line 102
+[30-Sep-2020 15:08:54 UTC] PHP Parse error:  syntax error, unexpected ';' in /home2/abdel8/public_html/az/wp-content/themes/A8child/TemplateWorks.php on line 100
+[30-Sep-2020 15:10:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/abdel8/public_html/az/wp-content/themes/A8child/TemplateWorks.php on line 102
+[30-Sep-2020 15:10:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home2/abdel8/public_html/az/wp-content/themes/A8child/TemplateWorks.php on line 102
+[30-Sep-2020 15:10:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/abdel8/public_html/az/wp-content/themes/A8child/TemplateWorks.php on line 116
+[30-Sep-2020 15:10:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/abdel8/public_html/az/wp-content/themes/A8child/TemplateWorks.php on line 102
+[30-Sep-2020 15:10:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home2/abdel8/public_html/az/wp-content/themes/A8child/TemplateWorks.php on line 102
+[30-Sep-2020 15:10:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/abdel8/public_html/az/wp-content/themes/A8child/TemplateWorks.php on line 116
+[30-Sep-2020 15:11:13 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/abdel8/public_html/az/wp-content/themes/A8child/TemplateWorks.php on line 103
+[30-Sep-2020 15:12:29 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/abdel8/public_html/az/wp-content/themes/A8child/TemplateWorks.php on line 103
+[30-Sep-2020 15:13:53 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/abdel8/public_html/az/wp-content/themes/A8child/TemplateWorks.php on line 102
+[07-Oct-2020 20:51:04 UTC] PHP Warning:  Phar::mapPhar(): open_basedir restriction in effect. File(/usr/local/cpanel/3rdparty/share/cpanel-wp-cli/wp-cli.phar) is not within the allowed path(s): (/home:/home2:/home3:/usr/local/lib/php:/tmp:/usr/lib/php/:/usr/share/l.v.e-manager/:/opt/cpanel/ea-php74/:/usr/local/lsws/) in /usr/local/cpanel/3rdparty/share/cpanel-wp-cli/wp-cli.phar on line 3
+[07-Oct-2020 20:51:04 UTC] PHP Warning:  include(phar://wp-cli.phar/php/boot-phar.php): failed to open stream: phar error: invalid url or non-existent phar "phar://wp-cli.phar/php/boot-phar.php" in /usr/local/cpanel/3rdparty/share/cpanel-wp-cli/wp-cli.phar on line 4
+[07-Oct-2020 20:51:04 UTC] PHP Warning:  include(): Failed opening 'phar://wp-cli.phar/php/boot-phar.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /usr/local/cpanel/3rdparty/share/cpanel-wp-cli/wp-cli.phar on line 4
+[07-Oct-2020 21:21:29 UTC] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting ']' in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 6
+[07-Oct-2020 21:22:21 UTC] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting ']' in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 6
+[07-Oct-2020 21:24:06 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 11
+[07-Oct-2020 21:25:00 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 11
+[07-Oct-2020 21:25:06 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 11
+[07-Oct-2020 21:25:35 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 11
+[07-Oct-2020 21:26:24 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 11
+[07-Oct-2020 21:27:13 UTC] PHP Parse error:  syntax error, unexpected ':' in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 31
+[07-Oct-2020 21:27:57 UTC] PHP Parse error:  syntax error, unexpected ':' in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 31
+[07-Oct-2020 21:28:56 UTC] PHP Parse error:  syntax error, unexpected ':' in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 31
+[07-Oct-2020 21:29:01 UTC] PHP Parse error:  syntax error, unexpected ':' in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 31
+[07-Oct-2020 21:29:36 UTC] PHP Parse error:  syntax error, unexpected ':' in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 31
+[07-Oct-2020 21:30:19 UTC] PHP Warning:  strip_tags() expects parameter 1 to be string, object given in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 89
+[07-Oct-2020 21:31:00 UTC] PHP Warning:  strip_tags() expects parameter 1 to be string, object given in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 89
+[07-Oct-2020 21:31:10 UTC] PHP Warning:  strip_tags() expects parameter 1 to be string, object given in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 89
+[07-Oct-2020 21:31:30 UTC] PHP Warning:  strip_tags() expects parameter 1 to be string, object given in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 89
+[07-Oct-2020 21:31:35 UTC] PHP Warning:  strip_tags() expects parameter 1 to be string, object given in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 89
+[07-Oct-2020 21:32:09 UTC] PHP Warning:  strip_tags() expects parameter 1 to be string, object given in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 89
+[07-Oct-2020 21:32:17 UTC] PHP Warning:  strip_tags() expects parameter 1 to be string, object given in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 89
+[07-Oct-2020 22:15:04 UTC] PHP Fatal error:  Call to undefined function twentytwenty_the_post_meta() in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 95
+[07-Oct-2020 22:29:05 UTC] PHP Fatal error:  Cannot redeclare the_post_thumbnail() (previously declared in /home2/abdel8/public_html/az/wp-includes/post-thumbnail-template.php:82) in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 54
+[07-Oct-2020 22:30:00 UTC] PHP Fatal error:  Cannot redeclare the_post_thumbnail() (previously declared in /home2/abdel8/public_html/az/wp-includes/post-thumbnail-template.php:82) in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 53
+[08-Oct-2020 12:52:14 UTC] PHP Warning:  header() expects at least 1 parameter, 0 given in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 4
+[09-Oct-2020 13:32:46 UTC] PHP Fatal error:  Out of memory (allocated 79429632) (tried to allocate 72 bytes) in /home2/abdel8/public_html/az/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 59
+[09-Oct-2020 17:38:49 UTC] PHP Warning:  Phar::mapPhar(): open_basedir restriction in effect. File(/usr/local/cpanel/3rdparty/share/cpanel-wp-cli/wp-cli.phar) is not within the allowed path(s): (/home:/home2:/home3:/usr/local/lib/php:/tmp:/usr/lib/php/:/usr/share/l.v.e-manager/:/opt/cpanel/ea-php74/:/usr/local/lsws/) in /usr/local/cpanel/3rdparty/share/cpanel-wp-cli/wp-cli.phar on line 3
+[09-Oct-2020 17:38:49 UTC] PHP Warning:  include(phar://wp-cli.phar/php/boot-phar.php): failed to open stream: phar error: invalid url or non-existent phar "phar://wp-cli.phar/php/boot-phar.php" in /usr/local/cpanel/3rdparty/share/cpanel-wp-cli/wp-cli.phar on line 4
+[09-Oct-2020 17:38:49 UTC] PHP Warning:  include(): Failed opening 'phar://wp-cli.phar/php/boot-phar.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /usr/local/cpanel/3rdparty/share/cpanel-wp-cli/wp-cli.phar on line 4
+[10-Oct-2020 15:43:36 UTC] PHP Warning:  strip_tags() expects parameter 1 to be string, object given in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 29
+[10-Oct-2020 15:43:42 UTC] PHP Warning:  strip_tags() expects parameter 1 to be string, object given in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 29
+[10-Oct-2020 15:51:49 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 42
+[10-Oct-2020 15:54:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 94
+[10-Oct-2020 15:54:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 94
+[10-Oct-2020 16:08:40 UTC] PHP Fatal error:  Call to undefined function getPostViews() in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 16
+[10-Oct-2020 16:08:43 UTC] PHP Fatal error:  Call to undefined function getPostViews() in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 16
+[10-Oct-2020 16:09:26 UTC] PHP Fatal error:  Call to undefined function getPostViews() in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 16
+[10-Oct-2020 16:09:29 UTC] PHP Fatal error:  Call to undefined function getPostViews() in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 16
+[10-Oct-2020 16:10:04 UTC] PHP Fatal error:  Call to undefined function getPostViews() in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 17
+[10-Oct-2020 16:10:07 UTC] PHP Fatal error:  Call to undefined function getPostViews() in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 17
+[10-Oct-2020 16:12:14 UTC] PHP Warning:  include(includes/articleheader.php): failed to open stream: No such file or directory in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 17
+[10-Oct-2020 16:12:14 UTC] PHP Warning:  include(includes/articleheader.php): failed to open stream: No such file or directory in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 17
+[10-Oct-2020 16:12:14 UTC] PHP Warning:  include(): Failed opening 'includes/articleheader.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 17
+[10-Oct-2020 16:12:17 UTC] PHP Warning:  include(includes/articleheader.php): failed to open stream: No such file or directory in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 17
+[10-Oct-2020 16:12:17 UTC] PHP Warning:  include(includes/articleheader.php): failed to open stream: No such file or directory in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 17
+[10-Oct-2020 16:12:17 UTC] PHP Warning:  include(): Failed opening 'includes/articleheader.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 17
+[10-Oct-2020 16:16:38 UTC] PHP Fatal error:  Call to undefined function has_tag_thumbnail() in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 10
+[10-Oct-2020 16:16:41 UTC] PHP Fatal error:  Call to undefined function has_tag_thumbnail() in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 10
+[10-Oct-2020 16:28:58 UTC] PHP Fatal error:  Call to undefined function has_tag_thumbnail() in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 10
+[10-Oct-2020 16:29:02 UTC] PHP Fatal error:  Call to undefined function has_tag_thumbnail() in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 10
+[10-Oct-2020 16:35:43 UTC] PHP Fatal error:  Call to undefined function the_tags_list() in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 10
+[10-Oct-2020 16:35:45 UTC] PHP Fatal error:  Call to undefined function the_tags_list() in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 10
+[10-Oct-2020 16:36:17 UTC] PHP Fatal error:  Call to undefined function the_tags_thumbnail() in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 10
+[10-Oct-2020 16:36:19 UTC] PHP Fatal error:  Call to undefined function the_tags_thumbnail() in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 10
+[10-Oct-2020 16:49:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 111
+[10-Oct-2020 16:49:21 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 111
+[10-Oct-2020 16:50:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 115
+[10-Oct-2020 16:51:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 114
+[10-Oct-2020 16:51:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 114
+[10-Oct-2020 16:54:03 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 12
+[10-Oct-2020 16:54:09 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 12
+[10-Oct-2020 16:54:14 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 12
+[10-Oct-2020 16:55:54 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 12
+[10-Oct-2020 17:13:04 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 13
+[10-Oct-2020 17:14:06 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 13
+[10-Oct-2020 17:15:12 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 13
+[10-Oct-2020 17:15:21 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 13
+[10-Oct-2020 17:15:53 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 13
+[10-Oct-2020 17:15:58 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 13
+[10-Oct-2020 17:16:31 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 13
+[10-Oct-2020 17:16:34 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 13
+[10-Oct-2020 17:19:31 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 13
+[10-Oct-2020 17:20:00 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 13
+[10-Oct-2020 17:20:24 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 13
+[10-Oct-2020 17:21:20 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 68
+[10-Oct-2020 17:21:23 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 68
+[10-Oct-2020 17:22:00 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 68
+[10-Oct-2020 17:22:03 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 68
+[10-Oct-2020 17:23:53 UTC] PHP Parse error:  syntax error, unexpected '.' in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 29
+[10-Oct-2020 17:24:39 UTC] PHP Parse error:  syntax error, unexpected '.' in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 29
+[10-Oct-2020 17:24:49 UTC] PHP Parse error:  syntax error, unexpected '.' in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 29
+[10-Oct-2020 17:27:11 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 13
+[10-Oct-2020 17:28:24 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 13
+[10-Oct-2020 17:28:28 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 13
+[10-Oct-2020 17:29:09 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 13
+[10-Oct-2020 17:29:12 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 13
+[10-Oct-2020 17:29:48 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 16
+[10-Oct-2020 17:29:52 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 16
+[10-Oct-2020 17:54:23 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 13
+[10-Oct-2020 21:48:46 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 13
+[16-Oct-2020 19:40:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 195
+[16-Oct-2020 20:09:22 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 8
+[16-Oct-2020 20:09:28 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 8
+[17-Oct-2020 18:46:43 UTC] PHP Fatal error:  Call to undefined function has_category_thumbnail() in /home2/abdel8/public_html/az/wp-content/themes/A8child/single.php on line 85
+[17-Oct-2020 18:46:47 UTC] PHP Fatal error:  Call to undefined function has_category_thumbnail() in /home2/abdel8/public_html/az/wp-content/themes/A8child/single.php on line 85
+[17-Oct-2020 18:48:44 UTC] PHP Fatal error:  Call to undefined function has_category_thumbnail() in /home2/abdel8/public_html/az/wp-content/themes/A8child/single.php on line 85
+[17-Oct-2020 18:48:48 UTC] PHP Fatal error:  Call to undefined function has_category_thumbnail() in /home2/abdel8/public_html/az/wp-content/themes/A8child/single.php on line 85
+[17-Oct-2020 18:49:44 UTC] PHP Fatal error:  Call to undefined function the_category_thumbnail() in /home2/abdel8/public_html/az/wp-content/themes/A8child/single.php on line 85
+[17-Oct-2020 18:49:48 UTC] PHP Fatal error:  Call to undefined function the_category_thumbnail() in /home2/abdel8/public_html/az/wp-content/themes/A8child/single.php on line 85
+[17-Oct-2020 18:49:59 UTC] PHP Fatal error:  Call to undefined function the_category_thumbnail() in /home2/abdel8/public_html/az/wp-content/themes/A8child/single.php on line 85
+[17-Oct-2020 18:50:03 UTC] PHP Fatal error:  Call to undefined function the_category_thumbnail() in /home2/abdel8/public_html/az/wp-content/themes/A8child/single.php on line 85
+[17-Oct-2020 18:50:42 UTC] PHP Fatal error:  Call to undefined function get_the_category_thumbnail() in /home2/abdel8/public_html/az/wp-content/themes/A8child/single.php on line 86
+[17-Oct-2020 18:50:47 UTC] PHP Fatal error:  Call to undefined function get_the_category_thumbnail() in /home2/abdel8/public_html/az/wp-content/themes/A8child/single.php on line 86
+[17-Oct-2020 18:54:24 UTC] PHP Fatal error:  Call to undefined function the_category_thumbnail() in /home2/abdel8/public_html/az/wp-content/themes/A8child/single.php on line 91
+[17-Oct-2020 18:54:29 UTC] PHP Fatal error:  Call to undefined function the_category_thumbnail() in /home2/abdel8/public_html/az/wp-content/themes/A8child/single.php on line 91
+[17-Oct-2020 18:54:32 UTC] PHP Fatal error:  Call to undefined function the_category_thumbnail() in /home2/abdel8/public_html/az/wp-content/themes/A8child/single.php on line 91
+[17-Oct-2020 18:54:36 UTC] PHP Fatal error:  Call to undefined function the_category_thumbnail() in /home2/abdel8/public_html/az/wp-content/themes/A8child/single.php on line 91
+[17-Oct-2020 18:56:19 UTC] PHP Fatal error:  Call to undefined function has_category_thumbnail() in /home2/abdel8/public_html/az/wp-content/themes/A8child/single.php on line 85
+[17-Oct-2020 18:56:25 UTC] PHP Fatal error:  Call to undefined function has_category_thumbnail() in /home2/abdel8/public_html/az/wp-content/themes/A8child/single.php on line 85
+[17-Oct-2020 18:58:42 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home2/abdel8/public_html/az/wp-content/themes/A8child/single.php on line 90
+[17-Oct-2020 19:12:43 UTC] PHP Fatal error:  Call to undefined function the_category_thumbnail() in /home2/abdel8/public_html/az/wp-content/themes/A8child/single.php on line 121
+[17-Oct-2020 19:12:49 UTC] PHP Fatal error:  Call to undefined function the_category_thumbnail() in /home2/abdel8/public_html/az/wp-content/themes/A8child/single.php on line 121
+[19-Oct-2020 14:49:55 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/abdel8/public_html/az/wp-content/themes/A8child/single.php on line 180
+[19-Oct-2020 14:50:07 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/abdel8/public_html/az/wp-content/themes/A8child/single.php on line 180
+[20-Oct-2020 17:22:35 UTC] PHP Fatal error:  Call to undefined function wp_header() in /home2/abdel8/public_html/az/wp-content/themes/A8child/single-pharmaco.php on line 5
+[06-Nov-2020 15:05:40 UTC] PHP Fatal error:  Call to undefined function wp_header() in /home2/abdel8/public_html/az/wp-content/themes/A8child/search.php on line 5
+[06-Nov-2020 15:37:16 UTC] PHP Warning:  header() expects at least 1 parameter, 0 given in /home2/abdel8/public_html/az/wp-content/themes/A8child/search.php on line 5
+[06-Nov-2020 15:38:02 UTC] PHP Fatal error:  Call to undefined function wpheader() in /home2/abdel8/public_html/az/wp-content/themes/A8child/search.php on line 5
+[06-Nov-2020 15:38:43 UTC] PHP Fatal error:  Call to undefined function wp_header() in /home2/abdel8/public_html/az/wp-content/themes/A8child/search.php on line 5
+[06-Nov-2020 15:38:52 UTC] PHP Fatal error:  Call to undefined function wp_header() in /home2/abdel8/public_html/az/wp-content/themes/A8child/search.php on line 5
+[03-Feb-2021 19:05:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/abdel8/public_html/az/wp-content/themes/A8child/oooooooooMyunder.php on line 11
+[03-Feb-2021 19:05:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/abdel8/public_html/az/wp-content/themes/A8child/oooooooooMyunder.php on line 11
+[03-Feb-2021 19:11:33 UTC] PHP Parse error:  syntax error, unexpected 'Construction' (T_STRING) in /home2/abdel8/public_html/az/wp-content/themes/A8child/oooooooooMyunder.php on line 10
+[03-Feb-2021 19:14:01 UTC] PHP Parse error:  syntax error, unexpected 'Construction' (T_STRING) in /home2/abdel8/public_html/az/wp-content/themes/A8child/oooooooooMyunder.php on line 10
+[03-Feb-2021 19:18:01 UTC] PHP Parse error:  syntax error, unexpected 'Construction' (T_STRING) in /home2/abdel8/public_html/az/wp-content/themes/A8child/oooooooooMyunder.php on line 10
+[03-Feb-2021 19:18:53 UTC] PHP Parse error:  syntax error, unexpected 'Construction' (T_STRING) in /home2/abdel8/public_html/az/wp-content/themes/A8child/oooooooooMyunder.php on line 10
+[03-Feb-2021 19:18:56 UTC] PHP Parse error:  syntax error, unexpected 'Construction' (T_STRING) in /home2/abdel8/public_html/az/wp-content/themes/A8child/oooooooooMyunder.php on line 10
+[03-Feb-2021 19:40:21 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/abdel8/public_html/az/wp-content/themes/A8child/oooooooooMyunder.php on line 6
+[04-Feb-2021 11:22:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home2/abdel8/public_html/az/wp-includes/wp-db.php:1670
+Stack trace:
+#0 /home2/abdel8/public_html/az/wp-includes/wp-db.php(632): wpdb->db_connect()
+#1 /home2/abdel8/public_html/az/wp-includes/load.php(482): wpdb->__construct('abdel8_wp353', '8vV39p@W-S', 'abdel8_wp353', 'localhost')
+#2 /home2/abdel8/public_html/az/wp-settings.php(124): require_wp_db()
+#3 /home2/abdel8/public_html/az/wp-config.php(93): require_once('/home2/abdel8/p...')
+#4 /home2/abdel8/public_html/az/wp-load.php(37): require_once('/home2/abdel8/p...')
+#5 /home2/abdel8/public_html/az/wp-blog-header.php(13): require_once('/home2/abdel8/p...')
+#6 /home2/abdel8/public_html/az/index.php(17): require('/home2/abdel8/p...')
+#7 {main}
+  thrown in /home2/abdel8/public_html/az/wp-includes/wp-db.php on line 1670
+[04-Feb-2021 11:22:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home2/abdel8/public_html/az/wp-includes/wp-db.php:1670
+Stack trace:
+#0 /home2/abdel8/public_html/az/wp-includes/wp-db.php(632): wpdb->db_connect()
+#1 /home2/abdel8/public_html/az/wp-includes/load.php(482): wpdb->__construct('abdel8_wp353', '8vV39p@W-S', 'abdel8_wp353', 'localhost')
+#2 /home2/abdel8/public_html/az/wp-settings.php(124): require_wp_db()
+#3 /home2/abdel8/public_html/az/wp-config.php(93): require_once('/home2/abdel8/p...')
+#4 /home2/abdel8/public_html/az/wp-load.php(37): require_once('/home2/abdel8/p...')
+#5 /home2/abdel8/public_html/az/wp-blog-header.php(13): require_once('/home2/abdel8/p...')
+#6 /home2/abdel8/public_html/az/index.php(17): require('/home2/abdel8/p...')
+#7 {main}
+  thrown in /home2/abdel8/public_html/az/wp-includes/wp-db.php on line 1670
+[04-Feb-2021 11:23:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home2/abdel8/public_html/az/wp-includes/wp-db.php:1670
+Stack trace:
+#0 /home2/abdel8/public_html/az/wp-includes/wp-db.php(632): wpdb->db_connect()
+#1 /home2/abdel8/public_html/az/wp-includes/load.php(482): wpdb->__construct('abdel8_wp353', '8vV39p@W-S', 'abdel8_wp353', 'localhost')
+#2 /home2/abdel8/public_html/az/wp-settings.php(124): require_wp_db()
+#3 /home2/abdel8/public_html/az/wp-config.php(93): require_once('/home2/abdel8/p...')
+#4 /home2/abdel8/public_html/az/wp-load.php(37): require_once('/home2/abdel8/p...')
+#5 /home2/abdel8/public_html/az/wp-blog-header.php(13): require_once('/home2/abdel8/p...')
+#6 /home2/abdel8/public_html/az/index.php(17): require('/home2/abdel8/p...')
+#7 {main}
+  thrown in /home2/abdel8/public_html/az/wp-includes/wp-db.php on line 1670
+[04-Feb-2021 11:24:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home2/abdel8/public_html/az/wp-includes/wp-db.php:1670
+Stack trace:
+#0 /home2/abdel8/public_html/az/wp-includes/wp-db.php(632): wpdb->db_connect()
+#1 /home2/abdel8/public_html/az/wp-includes/load.php(482): wpdb->__construct()
+#2 /home2/abdel8/public_html/az/wp-settings.php(124): require_wp_db()
+#3 /home2/abdel8/public_html/az/wp-config.php(93): require_once('/home2/abdel8/p...')
+#4 /home2/abdel8/public_html/az/wp-load.php(37): require_once('/home2/abdel8/p...')
+#5 /home2/abdel8/public_html/az/wp-blog-header.php(13): require_once('/home2/abdel8/p...')
+#6 /home2/abdel8/public_html/az/index.php(17): require('/home2/abdel8/p...')
+#7 {main}
+  thrown in /home2/abdel8/public_html/az/wp-includes/wp-db.php on line 1670
+[04-Feb-2021 11:24:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home2/abdel8/public_html/az/wp-includes/wp-db.php:1670
+Stack trace:
+#0 /home2/abdel8/public_html/az/wp-includes/wp-db.php(632): wpdb->db_connect()
+#1 /home2/abdel8/public_html/az/wp-includes/load.php(482): wpdb->__construct()
+#2 /home2/abdel8/public_html/az/wp-settings.php(124): require_wp_db()
+#3 /home2/abdel8/public_html/az/wp-config.php(93): require_once('/home2/abdel8/p...')
+#4 /home2/abdel8/public_html/az/wp-load.php(37): require_once('/home2/abdel8/p...')
+#5 /home2/abdel8/public_html/az/wp-blog-header.php(13): require_once('/home2/abdel8/p...')
+#6 /home2/abdel8/public_html/az/index.php(17): require('/home2/abdel8/p...')
+#7 {main}
+  thrown in /home2/abdel8/public_html/az/wp-includes/wp-db.php on line 1670
+[04-Feb-2021 11:24:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home2/abdel8/public_html/az/wp-includes/wp-db.php:1670
+Stack trace:
+#0 /home2/abdel8/public_html/az/wp-includes/wp-db.php(632): wpdb->db_connect()
+#1 /home2/abdel8/public_html/az/wp-includes/load.php(482): wpdb->__construct()
+#2 /home2/abdel8/public_html/az/wp-settings.php(124): require_wp_db()
+#3 /home2/abdel8/public_html/az/wp-config.php(93): require_once('/home2/abdel8/p...')
+#4 /home2/abdel8/public_html/az/wp-load.php(37): require_once('/home2/abdel8/p...')
+#5 /home2/abdel8/public_html/az/wp-blog-header.php(13): require_once('/home2/abdel8/p...')
+#6 /home2/abdel8/public_html/az/index.php(17): require('/home2/abdel8/p...')
+#7 {main}
+  thrown in /home2/abdel8/public_html/az/wp-includes/wp-db.php on line 1670
+[04-Feb-2021 11:25:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home2/abdel8/public_html/az/wp-includes/wp-db.php:1670
+Stack trace:
+#0 /home2/abdel8/public_html/az/wp-includes/wp-db.php(632): wpdb->db_connect()
+#1 /home2/abdel8/public_html/az/wp-includes/load.php(482): wpdb->__construct()
+#2 /home2/abdel8/public_html/az/wp-settings.php(124): require_wp_db()
+#3 /home2/abdel8/public_html/az/wp-config.php(93): require_once('/home2/abdel8/p...')
+#4 /home2/abdel8/public_html/az/wp-load.php(37): require_once('/home2/abdel8/p...')
+#5 /home2/abdel8/public_html/az/wp-blog-header.php(13): require_once('/home2/abdel8/p...')
+#6 /home2/abdel8/public_html/az/index.php(17): require('/home2/abdel8/p...')
+#7 {main}
+  thrown in /home2/abdel8/public_html/az/wp-includes/wp-db.php on line 1670
